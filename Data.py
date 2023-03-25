@@ -31,7 +31,11 @@ class Data:
        
   ]
     # Help Message
+    
+    # Help Message
+
     HELP = """
+
 **Usage**
 
 1) Just send a PDF to do stuff on it
@@ -49,3 +53,5 @@ class Data:
 4) Decrypt PDFs
 
 5) Convert Images to PDF
+
+"""
